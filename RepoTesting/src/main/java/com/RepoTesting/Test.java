@@ -4,7 +4,7 @@ public class Test {
 
 	public static void main(String[] args) {
 		
-		//Welcome to java java java
+		//Welcome to java java java welcome
 
 	}
 
